@@ -1,0 +1,10 @@
+html {
+    /* box sizing prevents extra padding to the page  */
+    box-sizing: border-box;
+}
+
+body{
+  margin: 0;
+  /* vh stands for viewport height 100 vh will always strech our page to the full lenght even content is not enough */
+  min-height: 100vh;
+}
